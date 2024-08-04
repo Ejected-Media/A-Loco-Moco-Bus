@@ -167,6 +167,154 @@ pageData := htmlPageData {
   }
   
   
+   #### Stuff ~
+ + _ Driver
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Driver" {
+      pageTitle = "Driver Page"
+      pageList = pageList
+  }
+  
+  
+ + _ Equipment 
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Equipment" {
+      pageTitle = "Equipment Page"
+      pageList = pageList
+  }
+  
+  
+ + _ Ingredients 
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Ingredients" {
+      pageTitle = "Ingredients Page"
+      pageList = pageList
+  }
+  
+  
+ + _ Vehicle 
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Vehicle" {
+      pageTitle = "Vehicle Page"
+      pageList = pageList
+  }
+  
+  
+ 
+ 
+ #### Stuff ~
+ + _ Schedule 
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Schedule" {
+      pageTitle = "Schedule Page"
+      pageList = pageList
+  }
+  
+  
+ + _ Menu
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Menu" {
+      pageTitle = "Menu Page"
+      pageList = pageList
+  }
+  
+  
+ + _ Branding 
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Branding" {
+      pageTitle = "Branding Page"
+      pageList = pageList
+  }
+  
+  
+ + _ Customers
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Customers" {
+      pageTitle = "Customers Page"
+      pageList = pageList
+  }
+  
+ 
+ #### Stuff ~
+ + _ Asana
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Asana" {
+      pageTitle = "Asana Page"
+      pageList = pageList
+  }
+  
+  
+ + _ Slack
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Slack" {
+      pageTitle = "Slack Page"
+      pageList = pageList
+  }
+  
+  
+ + _ Discord 
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Discord" {
+      pageTitle = "Discord Page"
+      pageList = pageList
+  }
+  
+  
+ + _ GumRoad
+    // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/GumRoad" {
+      pageTitle = "GumRoad Page"
+      pageList = pageList
+  }
+ 
+ 
+#### Stuff ~
++ _ GitHub
+   // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/GitHub" {
+      pageTitle = "GitHub Page"
+      pageList = pageList
+  }
+  
++ _ Google Cloud
+   // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Google_Cloud" {
+      pageTitle = "Google_Cloud Page"
+      pageList = pageList
+  }
+  
++ _ Linktree
+   // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Linktree" {
+      pageTitle = "Linktree Page"
+      pageList = pageList
+  }
+  
+  
++ _ Printful
+   // ,  ° . +  - _ ` Menu ~
+  // ,  ° . +
+  if pagePath == "/Printful" {
+      pageTitle = "Printful Page"
+      pageList = pageList
+  }
+  
+  
     // ,  ° . + ` <p>Cafe Needs<ul>
     
     
