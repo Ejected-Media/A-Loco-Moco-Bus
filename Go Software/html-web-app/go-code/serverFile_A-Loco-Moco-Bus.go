@@ -308,6 +308,53 @@ func main() {
   
   http.HandleFunc("/settings", indexHandler)
   
+  
+  
+  Driver
+  http.HandleFunc("/Driver", indexHandler)
+ + _ Equipment 
+ http.HandleFunc("/Equipment", indexHandler)
+ + _ Ingredients 
+ http.HandleFunc("/Ingredients", indexHandler)
+ + _ Vehicle 
+ http.HandleFunc("/Vehicle", indexHandler)
+ 
+ 
+ #### Stuff ~
+ + _ Schedule 
+ http.HandleFunc("/Schedule", indexHandler)
+ + _ Menu
+ http.HandleFunc("/Menu", indexHandler)
+ + _ Branding 
+ http.HandleFunc("/Branding", indexHandler)
+ + _ Customers
+ http.HandleFunc("/Customers", indexHandler)
+ 
+ #### Stuff ~
+ + _ Asana
+ http.HandleFunc("/Asana", indexHandler)
+ + _ Slack
+ http.HandleFunc("/Slack", indexHandler)
+ + _ Discord 
+ http.HandleFunc("/Discord", indexHandler)
+ + _ GumRoad
+ http.HandleFunc("/GumRoad", indexHandler)
+ 
+ 
+#### Stuff ~
++ _ GitHub
+http.HandleFunc("/GitHub", indexHandler)
++ _ Google Cloud
+http.HandleFunc("/Google_Cloud", indexHandler)
++ _ Linktree
+http.HandleFunc("/Linktree", indexHandler)
++ _ Printful
+http.HandleFunc("/Printful", indexHandler)
+
+  
+  
+  
+  
   // ,  ° . +` <p>Cafe Needs<ul>
 http.HandleFunc("/Menu", indexHandler)
   // ,  ° . + - _ ` Menu ~
