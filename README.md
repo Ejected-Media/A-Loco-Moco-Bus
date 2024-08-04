@@ -79,14 +79,18 @@ _ `...`
 + _ Linktree
 + _ Printful
 
-+ _ GitHub
-_ `...` ~
-+ _ Google Cloud
-_ `...` ~
-+ _ Linktree
+--- 
+
+#### _ GitHub
 _ `...` ~
 
-+ _ Printful
+#### _ Google Cloud
+_ `...` ~
+
+#### _ Linktree
+_ `...` ~
+
+##### _ Printful
 _ `...` ~
  
  
