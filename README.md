@@ -26,6 +26,17 @@ _`...` ~
 + $1.50 + $4.50 =
 + Total = $6.00
 
+--- 
+_ `...` ~
+
+#### A Loco Moco 🫔 ~
++ Hamburger 
++ Eggs
++ Gravy
++ Rice
++ Mac Salad 
++ Garnish 
+
 
 --- 
 _ `...` ~ 
