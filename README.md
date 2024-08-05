@@ -18,6 +18,16 @@ _ `...` ~
 + Plate - $7.50
 
 --- 
+_`...` ~
+
+#### Order Form 🗒️ ~
++ 1 Medium Honolulu Lemonade 
++ 1 Loco Moco Wrap
++ $1.50 + $4.50 =
++ Total = $6.00
+
+
+--- 
 _ `...` ~ 
 
 #### Roles 🦭 ~
