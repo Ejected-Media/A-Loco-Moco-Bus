@@ -4,6 +4,39 @@
 
 https://github.com/Ejected-Media/A-Loco-Moco-Bus
 
+--- 
+_ `...` ~
+
+#### Honolulu Lemonade 🍋 ~
++ Small - $1.00
++ Medium - $1.50
++ Large - $2.00
+
+#### Loco Moco 🫔 ~
++ Wrap - $4.50
++ Bowl - $4.50
++ Plate - $7.50
+
+--- 
+_ `...` ~ 
+
+#### Roles 🦭 ~
++ Driver
++ Manager 
++ Staff
++ Cook
+
+#### Corporate 🦭 ~
++ HR
++ Design 
++ Tech
++ Legal
+
+#### Executive 🦭 ~
++ VP This 
++ VP That
++ Operations 
++ Financial 
 
 --- 
 
