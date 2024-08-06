@@ -63,6 +63,23 @@ _ `...` ~
 + Financial 
 
 --- 
+_ `...` ~
+
+#### Manager Needs 🌾 ~
++ Driver
++ Cook
++ Staff
++ Ingredients 
++ Products 
++ Equipment 
++ Vehicle 
++ Schedule 
++ Menu
++ Customers 
++ Branding
+
+
+--- 
 
 _ `...`
 
