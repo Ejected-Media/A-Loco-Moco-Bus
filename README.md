@@ -218,4 +218,6 @@ _ `...` ~
 
  _ `A Loco Moco Bus ~
  
- 
++ https://onohawaiianrecipes.com/recipes/a-classic-loco-moco/
++ https://en.wikipedia.org/wiki/Loco_moco
+
