@@ -257,3 +257,13 @@ _ `...` ~
 _ `...` ~ 
 ### Vehicle ° ~
 + https://www.amazon.com/gp/aw/d/B0D6RLGTNM
++ https://youtu.be/yCHgBQf3hSY?si=FlQx-U1hDN5JzJLu
++ https://youtu.be/haGLUfzk0y4?si=98TZoYuxia-AZ27s 
++ https://youtu.be/eER9HdYXc6M?si=K54ep_cBxKxY90z3 
++ https://youtu.be/qeH2OpyrgUg?si=dc-KGVrbbH5B6TI7 
++ https://youtu.be/1slGq2-tGu8?si=uM1aPm8kQ8YgVQpZ
++ https://youtu.be/vWpapsL0CiI?feature=shared
++ https://youtu.be/QayAMOBj5SQ?si=_jpcLcOEGT9tIiac 
++ https://youtu.be/jSEZCzLNFrs?si=ekbuBJZxbfwlyGBD
++ https://youtu.be/JTZ74w7Q9sU?si=VP-S8xwGgC_i9gnm 
++ https://youtu.be/kGtb6qGDBpM?si=bCnR5vKJqVX9G7o8 
