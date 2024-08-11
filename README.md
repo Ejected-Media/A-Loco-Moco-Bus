@@ -5,6 +5,9 @@
 https://github.com/Ejected-Media/A-Loco-Moco-Bus
 
 _ ` Realm of Capabilities 🪐 ~  
+
+--- 
+
 _ ` Roots of Power 🐡 ~
 
 
@@ -40,6 +43,12 @@ _ `...` ~
 + Rice
 + Mac Salad 
 + Garnish 
+
+#### Other Sale Items 🍋 ~
++ Honolulu Lemonade 
++ Espresso Shots
++ Pineapple in a Bag 
++ Cheese Fries 
 
 
 --- 
@@ -267,3 +276,42 @@ _ `...` ~
 + https://youtu.be/jSEZCzLNFrs?si=ekbuBJZxbfwlyGBD
 + https://youtu.be/JTZ74w7Q9sU?si=VP-S8xwGgC_i9gnm 
 + https://youtu.be/kGtb6qGDBpM?si=bCnR5vKJqVX9G7o8 
+
+
+--- 
+_ `...` ~
+### Ingredients ° ~
++ Ground Beef 
++ Eggs
++ Unsalted Butter 
++ Sweet Onion 
++ Mushrooms
++ Green Onions
++ Rice
++ Worcestershire Sauce 
++ Shoyu
++ Ketchup 
++ Garlic 
++ Seasoning Salt
++ Cornstarch 
++ Olive Oil 
++ Salt
++ Pepper 
++ Beef Broth 
++ Soy Sauce 
++ Flour 
++ Chives 
++ Furikake
++ Panko Breadcrumbs 
+
+---
+_ `...` ~ 
+### Three Parts ° ~
++ Beef Patty 
++ Mushroom Gavy
++ Serving Items 
+
+
+
+
+
