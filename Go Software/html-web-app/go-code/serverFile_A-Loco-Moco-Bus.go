@@ -235,6 +235,114 @@ pageData := htmlPageData {
       pageList = pageList
   }
   
+  
+    // <li>Loco Moco Wrap</li>
+// http.HandleFunc("/menu/locomoco", indexHandler)
+ // + _ locomoco
+    // ,  ° . +  - _ ` locomoco ~
+  // ,  ° . +
+  if pagePath == "/locomoco" {
+      pageTitle = "locomoco Page"
+      pageList = pageList
+  }
+  
+   // <li>Honolulu Lemonade</li>
+ // http.HandleFunc("/menu/honolululemonade", indexHandler)
+  // + _ honolululemonade
+    // ,  ° . +  - _ ` honolululemonade ~
+  // ,  ° . +
+  if pagePath == "/honolululemonade" {
+      pageTitle = "honolululemonade Page"
+      pageList = pageList
+  }
+  
+  
+   // <li>Pineapple in a Bag</li>
+ // http.HandleFunc("/menu/pineapplebag", indexHandler)
+  // + _ pineapplebag
+    // ,  ° . +  - _ ` pineapplebag ~
+  // ,  ° . +
+  if pagePath == "/pineapplebag" {
+      pageTitle = "pineapplebag Page"
+      pageList = pageList
+  }
+  
+  
+  //  <li>Mango Sticky</li>
+// http.HandleFunc("/menu/mangosticky", indexHandler)
+ // + _ mangosticky
+    // ,  ° . +  - _ ` mangosticky ~
+  // ,  ° . +
+  if pagePath == "/mangosticky" {
+      pageTitle = "mangosticky Page"
+      pageList = pageList
+  }
+  
+  
+  //  <li>Espresso Shot</li>
+// http.HandleFunc("/menu/espressoshot", indexHandler)
+ // + _ espressoshot
+    // ,  ° . +  - _ ` espressoshot ~
+  // ,  ° . +
+  if pagePath == "/espressoshot" {
+      pageTitle = "espressoshot Page"
+      pageList = pageList
+  }
+  
+  
+  //  <li>Cheese Fries</li>
+// http.HandleFunc("/menu/cheesefries", indexHandler)
+ // + _ cheesefries
+    // ,  ° . +  - _ ` cheesefries ~
+  // ,  ° . +
+  if pagePath == "/cheesefries" {
+      pageTitle = "cheesefries Page"
+      pageList = pageList
+  }
+  
+  
+  //  <li>Massaman Bowl</li>
+// http.HandleFunc("/menu/massamanbowl", indexHandler)
+ // + _ massamanbowl
+    // ,  ° . +  - _ ` massamanbowl ~
+  // ,  ° . +
+  if pagePath == "/massamanbowl" {
+      pageTitle = "massamanbowl Page"
+      pageList = pageList
+  }
+  
+  
+  //  <li>Ceasar Bread</li>
+// http.HandleFunc("/menu/ceasarbread", indexHandler)
+ // + _ ceasarbread
+    // ,  ° . +  - _ ` ceasarbread ~
+  // ,  ° . +
+  if pagePath == "/ceasarbread" {
+      pageTitle = "ceasarbread Page"
+      pageList = pageList
+  }
+  
+  
+  //  <li>Itchy Butt</li>
+// http.HandleFunc("/menu/itchybutt", indexHandler)
+ // + _ itchybutt
+    // ,  ° . +  - _ ` itchybutt ~
+  // ,  ° . +
+  if pagePath == "/itchybutt" {
+      pageTitle = "itchybutt Page"
+      pageList = pageList
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  
  #### Stuff ~
  + _ Asana
@@ -461,8 +569,8 @@ http.HandleFunc("/menu/mangosticky", indexHandler)
 http.HandleFunc("/menu/espressoshot", indexHandler)
   //  <li>Cheese Fries</li>
 http.HandleFunc("/menu/cheesefries", indexHandler)
-  //  <li>Massaman Curry</li>
-http.HandleFunc("/menu/massamancurry", indexHandler)
+  //  <li>Massaman Bowl</li>
+http.HandleFunc("/menu/massamanbowl", indexHandler)
   //  <li>Ceasar Bread</li>
 http.HandleFunc("/menu/ceasarbread", indexHandler)
   //  <li>Itchy Butt</li>
