@@ -12,10 +12,7 @@ import (
   "net/http"
 		
   "cloud.google.com/go"
-    
-    
 )
-
 
 
 type htmlPageData struct {
@@ -25,19 +22,15 @@ type htmlPageData struct {
     
 }
 
-
 type pageNav struct {
     pageTitle string
     pageLink string
 }
 
 
-
 func app_welcome_center_page() {
-    
-    
+   
 }
-
 
 
 // . appHandler
@@ -169,7 +162,7 @@ pageData := htmlPageData {
   
    #### Stuff ~
  + _ Driver
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Driver ~
   // ,  ° . +
   if pagePath == "/Driver" {
       pageTitle = "Driver Page"
@@ -178,7 +171,7 @@ pageData := htmlPageData {
   
   
  + _ Equipment 
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Equipment ~
   // ,  ° . +
   if pagePath == "/Equipment" {
       pageTitle = "Equipment Page"
@@ -187,7 +180,7 @@ pageData := htmlPageData {
   
   
  + _ Ingredients 
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Ingredients ~
   // ,  ° . +
   if pagePath == "/Ingredients" {
       pageTitle = "Ingredients Page"
@@ -196,7 +189,7 @@ pageData := htmlPageData {
   
   
  + _ Vehicle 
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Vehicle ~
   // ,  ° . +
   if pagePath == "/Vehicle" {
       pageTitle = "Vehicle Page"
@@ -208,7 +201,7 @@ pageData := htmlPageData {
  
  #### Stuff ~
  + _ Schedule 
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Schedule ~
   // ,  ° . +
   if pagePath == "/Schedule" {
       pageTitle = "Schedule Page"
@@ -226,7 +219,7 @@ pageData := htmlPageData {
   
   
  + _ Branding 
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Branding ~
   // ,  ° . +
   if pagePath == "/Branding" {
       pageTitle = "Branding Page"
@@ -235,7 +228,7 @@ pageData := htmlPageData {
   
   
  + _ Customers
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Customers ~
   // ,  ° . +
   if pagePath == "/Customers" {
       pageTitle = "Customers Page"
@@ -245,7 +238,7 @@ pageData := htmlPageData {
  
  #### Stuff ~
  + _ Asana
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Asana ~
   // ,  ° . +
   if pagePath == "/Asana" {
       pageTitle = "Asana Page"
@@ -254,7 +247,7 @@ pageData := htmlPageData {
   
   
  + _ Slack
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Slack ~
   // ,  ° . +
   if pagePath == "/Slack" {
       pageTitle = "Slack Page"
@@ -263,7 +256,7 @@ pageData := htmlPageData {
   
   
  + _ Discord 
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` Discord ~
   // ,  ° . +
   if pagePath == "/Discord" {
       pageTitle = "Discord Page"
@@ -272,7 +265,7 @@ pageData := htmlPageData {
   
   
  + _ GumRoad
-    // ,  ° . +  - _ ` Menu ~
+    // ,  ° . +  - _ ` GumRoad ~
   // ,  ° . +
   if pagePath == "/GumRoad" {
       pageTitle = "GumRoad Page"
@@ -282,7 +275,7 @@ pageData := htmlPageData {
  
 #### Stuff ~
 + _ GitHub
-   // ,  ° . +  - _ ` Menu ~
+   // ,  ° . +  - _ ` GitHub ~
   // ,  ° . +
   if pagePath == "/GitHub" {
       pageTitle = "GitHub Page"
@@ -290,7 +283,7 @@ pageData := htmlPageData {
   }
   
 + _ Google Cloud
-   // ,  ° . +  - _ ` Menu ~
+   // ,  ° . +  - _ ` Google Cloud ~
   // ,  ° . +
   if pagePath == "/Google_Cloud" {
       pageTitle = "Google_Cloud Page"
@@ -298,7 +291,7 @@ pageData := htmlPageData {
   }
   
 + _ Linktree
-   // ,  ° . +  - _ ` Menu ~
+   // ,  ° . +  - _ ` Linktree ~
   // ,  ° . +
   if pagePath == "/Linktree" {
       pageTitle = "Linktree Page"
@@ -307,7 +300,7 @@ pageData := htmlPageData {
   
   
 + _ Printful
-   // ,  ° . +  - _ ` Menu ~
+   // ,  ° . +  - _ ` Printful ~
   // ,  ° . +
   if pagePath == "/Printful" {
       pageTitle = "Printful Page"
@@ -456,47 +449,66 @@ func main() {
   
   http.HandleFunc("/settings", indexHandler)
   
+  // <li>Loco Moco Wrap</li>
+http.HandleFunc("/menu/locomoco", indexHandler)
+   // <li>Honolulu Lemonade</li>
+ http.HandleFunc("/menu/honolululemonade", indexHandler)
+   // <li>Pineapple in a Bag</li>
+ http.HandleFunc("/menu/pineapplebag", indexHandler)
+  //  <li>Mango Sticky</li>
+http.HandleFunc("/menu/mangosticky", indexHandler)
+  //  <li>Espresso Shot</li>
+http.HandleFunc("/menu/espressoshot", indexHandler)
+  //  <li>Cheese Fries</li>
+http.HandleFunc("/menu/cheesefries", indexHandler)
+  //  <li>Massaman Curry</li>
+http.HandleFunc("/menu/massamancurry", indexHandler)
+  //  <li>Ceasar Bread</li>
+http.HandleFunc("/menu/ceasarbread", indexHandler)
+  //  <li>Itchy Butt</li>
+http.HandleFunc("/menu/itchybutt", indexHandler)
+  
   
   
   Driver
   http.HandleFunc("/Driver", indexHandler)
- + _ Equipment 
+ // + _ Equipment 
  http.HandleFunc("/Equipment", indexHandler)
- + _ Ingredients 
+ // + _ Ingredients 
  http.HandleFunc("/Ingredients", indexHandler)
- + _ Vehicle 
+ // + _ Vehicle 
  http.HandleFunc("/Vehicle", indexHandler)
  
  
  #### Stuff ~
- + _ Schedule 
+ // + _ Schedule 
  http.HandleFunc("/Schedule", indexHandler)
- + _ Menu
+ // + _ Menu
  http.HandleFunc("/Menu", indexHandler)
- + _ Branding 
+ // + _ Branding 
  http.HandleFunc("/Branding", indexHandler)
- + _ Customers
+ // + _ Customers
  http.HandleFunc("/Customers", indexHandler)
  
  #### Stuff ~
- + _ Asana
+ // + _ Asana
  http.HandleFunc("/Asana", indexHandler)
- + _ Slack
+ // + _ Slack
  http.HandleFunc("/Slack", indexHandler)
- + _ Discord 
+ // + _ Discord 
  http.HandleFunc("/Discord", indexHandler)
- + _ GumRoad
+ // + _ GumRoad
  http.HandleFunc("/GumRoad", indexHandler)
  
  
 #### Stuff ~
-+ _ GitHub
+// + _ GitHub
 http.HandleFunc("/GitHub", indexHandler)
-+ _ Google Cloud
+// + _ Google Cloud
 http.HandleFunc("/Google_Cloud", indexHandler)
-+ _ Linktree
+// + _ Linktree
 http.HandleFunc("/Linktree", indexHandler)
-+ _ Printful
+// + _ Printful
 http.HandleFunc("/Printful", indexHandler)
 
   
